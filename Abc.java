@@ -1,1 +1,1 @@
-system.out.printIn("hello")
+system.out.println("hello")
